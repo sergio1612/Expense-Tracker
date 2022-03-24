@@ -1,0 +1,13 @@
+.brand{
+    height: 20px;
+    width: 40px;
+}
+
+.nav-item{
+    color: white;
+    margin:0px 5px 0px 10px; /*top,right,bottom,left*/
+}
+.nav-item:hover{
+    color: aqua;    
+    text-decoration: none;
+}

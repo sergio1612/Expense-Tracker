@@ -1,0 +1,31 @@
+.signup{
+  margin-top: 100px;
+}
+
+.signup-logo{
+  width: 550px;
+  height:450px;
+}
+
+.signup-form{
+  margin-top: 50px;
+}
+.signup-form h3{
+  font-size: 15px;
+  color: #99A4C1
+}
+.signup-form label{
+  font-size: 20px;
+  color: #044069;
+}
+.signup-form input{
+  margin-bottom: 10px;
+}
+
+.signup-form .btn{
+
+  margin-top: 10px;
+  font-size: 20px;
+  background: #044069;
+  color: white;
+}
